@@ -1,0 +1,119 @@
+[13-Jan-2018 12:38:22 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 236
+[13-Jan-2018 13:36:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function listCity() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 12
+[13-Jan-2018 14:08:29 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_long_way.ctp on line 68
+[13-Jan-2018 14:28:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method HomesController::find() in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 41
+[13-Jan-2018 14:57:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/CarTypePricesController.php on line 13
+[13-Jan-2018 15:03:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 17
+[13-Jan-2018 15:03:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 17
+[13-Jan-2018 15:03:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 17
+[13-Jan-2018 15:04:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 17
+[13-Jan-2018 15:05:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 18
+[13-Jan-2018 15:08:07 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/CarTypePrices/list_car_type_price.ctp on line 81
+[13-Jan-2018 15:38:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 42
+[13-Jan-2018 15:39:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 42
+[13-Jan-2018 18:48:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function stripUnicode() in /home/tieda07b/public_html/dev-prj.com/app/Controller/Component/CommonComponent.php on line 34
+[13-Jan-2018 18:49:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function stripUnicode() in /home/tieda07b/public_html/dev-prj.com/app/Controller/Component/CommonComponent.php on line 34
+[13-Jan-2018 23:44:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function save() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/CodeDiscountsController.php on line 41
+[13-Jan-2018 23:46:45 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '@', expecting variable (T_VARIABLE) or '$' in /home/tieda07b/public_html/dev-prj.com/app/View/CarTypes/list_car_type.ctp on line 28
+[16-Jan-2018 17:43:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 54
+[16-Jan-2018 17:48:59 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 55
+[18-Jan-2018 16:06:27 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 492
+[18-Jan-2018 16:53:33 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'code_discount_price' (T_STRING), expecting ',' or ';' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 80
+[18-Jan-2018 22:19:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function clear() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/NoticesController.php on line 40
+[18-Jan-2018 22:21:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function create() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/NoticesController.php on line 40
+[18-Jan-2018 22:21:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function save() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/NoticesController.php on line 39
+[18-Jan-2018 22:29:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function emty() in /home/tieda07b/public_html/dev-prj.com/app/View/Notices/edit_notice.ctp on line 30
+[18-Jan-2018 23:16:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function where() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 49
+[19-Jan-2018 00:00:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function save() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 75
+[19-Jan-2018 00:10:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/contact.ctp on line 16
+[19-Jan-2018 10:24:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tieda07b/public_html/dev-prj.com/app/View/Orders/view_order.ctp on line 68
+[19-Jan-2018 10:24:33 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/View/Orders/view_order.ctp on line 88
+[19-Jan-2018 10:24:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function echonumber_format() in /home/tieda07b/public_html/dev-prj.com/app/View/Orders/view_order.ctp on line 88
+[22-Jan-2018 10:32:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 35
+[22-Jan-2018 10:33:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 35
+[22-Jan-2018 10:33:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 35
+[22-Jan-2018 10:33:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 35
+[22-Jan-2018 10:33:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 36
+[22-Jan-2018 10:33:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 36
+[22-Jan-2018 10:34:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 36
+[22-Jan-2018 10:34:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 36
+[22-Jan-2018 11:33:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function save() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/FeedbacksController.php on line 23
+[22-Jan-2018 11:49:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 43
+[22-Jan-2018 11:49:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 44
+[22-Jan-2018 11:50:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 44
+[22-Jan-2018 14:22:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/tieda07b/public_html/dev-prj.com/app/View/Layouts/admin.ctp on line 74
+[22-Jan-2018 14:22:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/tieda07b/public_html/dev-prj.com/app/View/Layouts/admin.ctp on line 74
+[22-Jan-2018 14:23:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function emtpy() in /home/tieda07b/public_html/dev-prj.com/app/View/Layouts/admin.ctp on line 74
+[22-Jan-2018 14:24:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 14:24:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/View/Helper/FunctionHelper.php on line 34
+[22-Jan-2018 15:31:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_long_way.ctp on line 57
+[22-Jan-2018 15:39:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 208
+[22-Jan-2018 16:32:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to private method CommonComponent::__send() from context 'HomesController' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 146
+[23-Jan-2018 18:04:45 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'vao' (T_STRING), expecting ',' or ';' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/view_price.ctp on line 341
+[24-Jan-2018 14:32:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 72
+[24-Jan-2018 14:32:50 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 72
+[24-Jan-2018 14:32:51 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 72
+[24-Jan-2018 14:33:02 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 72
+[24-Jan-2018 14:33:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 72
+[24-Jan-2018 14:33:50 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '=' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 74
+[24-Jan-2018 17:28:34 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 85
+[24-Jan-2018 17:28:50 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 85
+[24-Jan-2018 17:29:04 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 85
+[24-Jan-2018 17:29:10 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 85
+[24-Jan-2018 17:29:19 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 81
+[24-Jan-2018 17:29:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/order_car.ctp on line 81
+[26-Jan-2018 13:37:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/tieda07b/public_html/dev-prj.com/app/Controller/AppController.php on line 6
+[29-Jan-2018 13:28:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function save() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 15
+[29-Jan-2018 13:28:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function save() on a non-object in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 15
+[29-Jan-2018 13:48:20 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ')' in /home/tieda07b/public_html/dev-prj.com/app/View/LongWays/cat_long_way.ctp on line 62
+[29-Jan-2018 13:53:16 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/LongWays/cat_long_way.ctp on line 80
+[30-Jan-2018 09:41:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 43
+[30-Jan-2018 17:28:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot redeclare HomesController::test() in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 957
+[31-Jan-2018 13:23:19 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_cat_long_way.ctp on line 354
+[31-Jan-2018 13:23:32 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_cat_long_way.ctp on line 354
+[31-Jan-2018 13:24:26 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_cat_long_way.ctp on line 354
+[31-Jan-2018 13:27:59 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_cat_long_way.ctp on line 359
+[02-Feb-2018 09:43:39 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 594
+[02-Feb-2018 09:43:48 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 597
+[02-Feb-2018 09:44:19 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 595
+[02-Feb-2018 09:44:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 595
+[02-Feb-2018 09:44:57 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 595
+[02-Feb-2018 22:31:26 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/tieda07b/public_html/dev-prj.com/app/View/LongWays/edit_long_way.ctp on line 84
+[02-Feb-2018 22:32:03 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/tieda07b/public_html/dev-prj.com/app/View/LongWays/edit_long_way.ctp on line 108
+[02-Feb-2018 23:58:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/test.ctp on line 6
+[03-Feb-2018 00:37:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting ';' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/test.ctp on line 24
+[03-Feb-2018 00:37:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/test.ctp on line 23
+[03-Feb-2018 00:38:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/test.ctp on line 24
+[03-Feb-2018 10:08:57 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/tieda07b/public_html/dev-prj.com/app/View/Layouts/home.ctp on line 405
+[03-Feb-2018 10:11:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 347
+[03-Feb-2018 10:13:13 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/HomesController.php on line 347
+[06-Feb-2018 10:34:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/NoticesController.php on line 47
+[06-Feb-2018 10:34:10 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/Controller/NoticesController.php on line 47
+[06-Feb-2018 16:42:37 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/tieda07b/public_html/dev-prj.com/app/View/Homes/list_cat_long_way.ctp on line 184
+[21-Feb-2018 14:11:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:11:33 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:11:37 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:11:40 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:11:42 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:12:02 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:12:22 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:13:20 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:13:31 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:17:56 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:18:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:19:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:19:13 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:20:28 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:20:33 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:20:55 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
+[21-Feb-2018 14:20:58 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/tieda07b/public_html/dev-prj.com/app/Controller/LongWaysController.php on line 115
